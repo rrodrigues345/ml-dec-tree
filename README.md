@@ -31,4 +31,6 @@ python gender-class.py
 
 ## Créditos
 
-Créditos por parte do código vão para [chribsen](https://github.com/chribsen) e [sirajraval](https://github.com/llSourcell). 
+Créditos:
+- [chribsen](https://github.com/chribsen) e 
+- [sirajraval](https://github.com/llSourcell). 
