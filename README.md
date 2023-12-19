@@ -31,6 +31,5 @@ python gender-class.py
 
 ## Créditos
 
-Créditos:
 - [chribsen](https://github.com/chribsen) e 
 - [sirajraval](https://github.com/llSourcell). 
